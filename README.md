@@ -2,13 +2,6 @@
 
 this is the first file in this repo.
 
-## ipsum below
+## website
 
-skjlsef'ljsgknfkngig;SMvLSDKNv"SDKFgnsD
-S
-bn'lkbnzd'bdz'ihd
-pbhdf
-obdf
-o
-vbzfbdfbdfbfdab
-dfbfdbdfbfdbfda
+1)index.html
